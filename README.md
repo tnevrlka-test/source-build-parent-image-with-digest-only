@@ -1,3 +1,3 @@
 Simple app for testing only
 
-Test: parent image includes both tag and digest.
+Test: parent image includes digest only.
